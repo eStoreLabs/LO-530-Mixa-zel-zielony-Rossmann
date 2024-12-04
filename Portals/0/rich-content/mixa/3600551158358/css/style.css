@@ -393,7 +393,7 @@ body {
   #es-rc #es-rc-content .es-features {
     align-items: flex-start;
     gap: unset;
-    min-height: 300px;
+    min-height: 350px;
   }
   #es-rc #es-rc-content .es-features__bg {
     width: 100%;
